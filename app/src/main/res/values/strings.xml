@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen_PROM</string>
+    <string name="boton1">ACTIVITY 01</string>
+    <string name="boton2">ACTIVITY 02</string>
+    <string name="boton3">ACTIVITY 03</string>
+    <string name="boton4">EXIT</string>
+    <string name="mensajeToast">Activity not implemented</string>
+</resources>

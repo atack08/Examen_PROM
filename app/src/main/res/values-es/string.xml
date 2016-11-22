@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen_PROM</string>
+    <string name="boton1">ACTIVIDAD 01</string>
+    <string name="boton2">ACTIVIDAD 02</string>
+    <string name="boton3">ACTIVIDAD 03</string>
+    <string name="boton4">SALIR</string>
+    <string name="mensajeToast">Actividad no implementada</string>
+</resources>
